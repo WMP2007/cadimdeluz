@@ -1,0 +1,13 @@
+
+[
+    { 
+        "id":1, 
+        "Nome":"John",  
+        "Drink":"cafe" 
+    },
+    { 
+        "id":2, 
+        "Nome":"John",  
+        "Drink":"cafe" 
+    }
+]
